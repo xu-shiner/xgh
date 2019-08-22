@@ -1,0 +1,12 @@
+server:
+  port: 8081
+user:
+ username: lisi
+ age: 30
+ girls:
+  - rose
+  - han
+  - qian
+logging:
+  level:
+   cn.itcast: debug
