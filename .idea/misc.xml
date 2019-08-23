@@ -8,6 +8,7 @@
         <option value="$PROJECT_DIR$/../springboot-mybatis/pom.xml" />
         <option value="$PROJECT_DIR$/../lucene-demo/pom.xml" />
         <option value="$PROJECT_DIR$/../es-demo2/pom.xml" />
+        <option value="$PROJECT_DIR$/../vue-demo/pom.xml" />
       </list>
     </option>
   </component>

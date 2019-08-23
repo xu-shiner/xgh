@@ -10,6 +10,7 @@
         <module name="lucene-demo" />
         <module name="springboot-demo1" />
         <module name="springboot-mybatis" />
+        <module name="vue-demo" />
       </profile>
     </annotationProcessing>
   </component>
